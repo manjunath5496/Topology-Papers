@@ -48,6 +48,26 @@ For Deep Neural Networks Using Algebraic Topology</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Topology-Papers/blob/master/t(25).pdf" style="text-decoration:none;">Topology-Preserving Deep Image Segmentation</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Topology-Papers/blob/master/t(26).pdf" style="text-decoration:none;">Connectivity-Optimized Representation Learning via Persistent Homology</a></li>
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Topology-Papers/blob/master/t(27).pdf" style="text-decoration:none;">Soft Topology</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Topology-Papers/blob/master/t(28).pdf" style="text-decoration:none;">Introduction to Topology</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Topology-Papers/blob/master/t(29).pdf" style="text-decoration:none;">𝑃𝑆-Regular Sets in Topology and Generalized Topology </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Topology-Papers/blob/master/t(30).pdf" style="text-decoration:none;">Topology problems</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Topology-Papers/blob/master/t(31).pdf" style="text-decoration:none;">General Topology</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Topology-Papers/blob/master/t(32).pdf" style="text-decoration:none;">Some Properties of Interior and Closure in General Topology</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Topology-Papers/blob/master/t(33).pdf" style="text-decoration:none;">Topology for the working mathematician</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Topology-Papers/blob/master/t(34).pdf" style="text-decoration:none;">A Study On Nano Topology</a></li> 
+ 
+ 
+ 
  </ul>
   
   
